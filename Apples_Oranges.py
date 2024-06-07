@@ -1,4 +1,4 @@
-
+url="https://www.hackerrank.com/challenges/apple-and-orange/problem"
 def countApplesAndOranges(s, t, a, b, apples, oranges):
     total_apples=total_oranges=0
     for i in range(len(apples)):
